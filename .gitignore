@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 server_info.py
+SQL_dados.py
